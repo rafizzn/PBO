@@ -14,7 +14,7 @@
 
 ![image](https://github.com/user-attachments/assets/4e8a3f50-cab4-4392-a21f-29e5b61b9ef0)
 
-Detail ExceptionFull:
+Detail dari ExceptionFull:
 
 ![image](https://github.com/user-attachments/assets/0474ab0c-ca93-4e5a-852e-98f95e3e1174)
 
